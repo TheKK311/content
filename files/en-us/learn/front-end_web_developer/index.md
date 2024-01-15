@@ -163,7 +163,7 @@ It is good to know HTML, CSS, and JavaScript before working through this section
 
 There are no specific assessment articles in this set of modules. The case study tutorials at the end of the second and third modules prepare you for grasping the essentials of modern tooling.
 
-#### Modules
+#### Modules-
 
 - [Git and GitHub](/en-US/docs/Learn/Tools_and_testing/GitHub) (5 hour read)
 - [Understanding client-side web development tools](/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools) (20–25 hour read)
